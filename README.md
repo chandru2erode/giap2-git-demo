@@ -10,4 +10,7 @@ GIAP Cohort 2 GIT Demo Repository
 - git log
 - git pull
 - git push
+- git branch
+- git config
+- git stash
 
